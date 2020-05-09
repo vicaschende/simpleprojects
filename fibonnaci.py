@@ -14,5 +14,4 @@ while n <= i:
 
      n += 1
 
-
-print ("done with sequence")
+print ("Sequence finished")
